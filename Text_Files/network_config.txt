@@ -1,0 +1,6 @@
+Router: 231006436,RFT,No Description
+RouterPorts: 231006436,23,100,64
+Router: 231006433,RFT 2,No Ports here
+RouterPorts: 231006433
+Router: 231007506,Riuter ,No Description
+RouterPorts: 231007506,23,100,22

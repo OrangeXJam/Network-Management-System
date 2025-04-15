@@ -1,0 +1,57 @@
+2024-12-14T14:49:46.010815300 - Attempting to load from network_config.txt
+2024-12-14T14:49:46.020815100 - Successfully loaded from network_config.txt
+2024-12-14T14:49:59.179800600 - Started adding new device
+2024-12-14T16:50:08.296063900 - Attempting to load from network_config.txt
+2024-12-14T16:50:08.303061500 - Successfully loaded from network_config.txt
+2024-12-14T16:50:13.954877800 - Started adding new device
+2024-12-14T16:50:27.492206900 - Added Router - ID: 231006436, Name: RFT
+2024-12-14T16:50:32.524044100 - Started adding new device
+2024-12-14T16:50:45.905922100 - Added Switch - ID: 231006435, Name: SFT
+2024-12-14T16:51:00.294963 - Attempted to add connection with invalid 1st Device position: 3
+2024-12-14T16:57:24.136288800 - Started adding new device
+2024-12-14T16:57:43.370468700 - Added Router - ID: 231006433, Name: RFT 2
+2024-12-14T16:58:31.738508900 - Attempting to save to network_config.txt
+2024-12-14T16:58:31.745251200 - Successfully saved to network_config.txt
+2024-12-15T15:57:49.095022700 - Attempting to load from network_config.txt
+2024-12-15T15:57:49.121020100 - Successfully loaded from network_config.txt
+2024-12-15T16:06:46.749572900 - Attempting to load from network_config.txt
+2024-12-15T16:06:46.765573500 - Successfully loaded from network_config.txt
+2024-12-16T17:45:18.455256400 - Attempting to load from network_config.txt
+2024-12-16T17:45:18.466261400 - Successfully loaded from network_config.txt
+2024-12-16T21:50:32.050596600 - Attempting to load from network_config.txt
+2024-12-16T21:50:32.065592900 - Successfully loaded from network_config.txt
+2024-12-16T21:53:09.806915600 - Attempting to load from network_config.txt
+2024-12-16T21:53:09.819479300 - Successfully loaded from network_config.txt
+2024-12-16T21:56:08.899632500 - Attempting to load from network_config.txt
+2024-12-16T21:56:08.911872700 - Successfully loaded from network_config.txt
+2024-12-16T21:59:21.969142500 - Attempting to load from network_config.txt
+2024-12-16T21:59:21.980139800 - Successfully loaded from network_config.txt
+2024-12-21T17:13:50.167516700 - Attempting to load from network_config.txt
+2024-12-21T17:13:50.180518400 - Successfully loaded from network_config.txt
+2024-12-21T17:13:56.264848700 - Started adding new device
+2024-12-21T17:14:02.597257900 - Error: Invalid ID input format
+2024-12-21T17:46:29.013624700 - Attempting to load from network_config.txt
+2024-12-21T17:46:29.024804300 - Successfully loaded from network_config.txt
+2024-12-21T18:20:46.922428300 - Attempting to load from network_config.txt
+2024-12-21T18:20:46.950286800 - Successfully loaded from network_config.txt
+2024-12-21T18:21:04.484583200 - Started adding new device
+2024-12-21T18:21:09.751275400 - Error: Attempted to use duplicate ID: 231006436
+2024-12-21T18:21:36.485931600 - Added Router - ID: 231006431, Name: ROUTER FUCK MY LIFE
+2024-12-21T22:07:53.469171200 - Attempting to load from network_config.txt
+2024-12-21T22:07:53.482191200 - Successfully loaded from network_config.txt
+2024-12-21T22:07:59.378272800 - Started adding new device
+2024-12-21T22:08:02.681975900 - Attempting to load from network_config.txt
+2024-12-21T22:08:02.695000100 - Successfully loaded from network_config.txt
+2024-12-21T22:08:08.368458700 - Started adding new device
+2024-12-22T09:23:54.676365700 - Attempting to load from network_config.txt
+2024-12-22T09:23:54.691367700 - Successfully loaded from network_config.txt
+2024-12-22T09:24:34.208210400 - Started adding new device
+2024-12-22T09:24:51.004536400 - Error: Attempted to use duplicate ID: 231006436
+2024-12-22T09:25:08.622649100 - Added Router - ID: 231007506, Name: Riuter 
+2024-12-22T09:25:34.444567600 - Deleted device - ID: 231006435, Name: SFT
+2024-12-22T09:29:12.631333700 - Attempting to save to network_config.txt
+2024-12-22T09:29:12.636335500 - Successfully saved to network_config.txt
+2024-12-22T09:29:31.149290700 - User selected 1st Device ID: 231006436
+2024-12-22T09:29:35.658136400 - Attempted to connect the same device to itself: Device ID 231006436
+2024-12-23T19:53:37.338168400 - Attempting to load from network_config.txt
+2024-12-23T19:53:37.349744900 - Successfully loaded from network_config.txt
